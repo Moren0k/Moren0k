@@ -1,93 +1,142 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
-  <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kevin Moreno</h1>
-  <h3>Software Engineer (.NET) | Backend-Leaning Fullstack | Clean Architecture | DDD</h3>
+## Kevin Moreno
+### Founder @ RuntimeStudioDevs | Backend Engineer | .NET Specialist
+
+**Building production-grade systems with .NET8.**
+
+Clean architecture. AI-assisted development. Enterprise-ready APIs.
 
 </div>
 
-<p align="center">
-I build scalable APIs and well-structured systems in <b>.NET</b>, focusing on clean boundaries, code quality, and maintainable architecture. I collaborate, take ownership, and ship.</p>
+---
+
+## Who I Am
+
+I’m a backend engineer and founder of **RuntimeStudioDevs**. 
+
+Specialist in enterprise-grade systems with **.NET8 and clean patterns**. I ship scalable APIs that don’t fall apart.
 
 ---
 
-## 👨‍💻 About Me
+## Currently Building
 
-- 🧱 I design software with **Clean Architecture** and **Domain-Driven Design (DDD)**.
-- 🔧 Backend: **ASP.NET Core Web API**, **EF Core**, **JWT**, **ASP.NET Core Identity**, **Swagger/OpenAPI**.
-- 🎨 Frontend: **React** or **Vue** + **TypeScript (Vite)**, UI with **Tailwind/Bootstrap**.
-- 🗄️ Data: **MySQL** and **MongoDB** (modeling, normalization, queries).
-- ✅ Quality: **xUnit**, code standards, and PR-based workflows.
-- 🚀 DevOps: **Azure DevOps Pipelines (CI/CD)** + **Docker**.
-- 🤝 Teamwork: clear communication, feedback culture, and I enjoy **standardizing architecture & best practices** across the team.
-- 🌍 English: **A1** (technical reading).
+- RuntimeStudioDevs (founder, custom software & SaaS)
+- AI-assisted development workflows
+- Next.js + .NET8 full stack solutions
+- Automation and integration projects
 
 ---
 
-## 🧩 What I’m focusing on right now
+## What We Build
 
-- 🔭 Building **REST APIs** with clean boundaries (Domain/Application/Infrastructure)
-- 🌱 Improving **CI/CD** practices with Azure DevOps Pipelines
-- 🧪 Strengthening testing culture with **xUnit** (unit + integration patterns)
-- 🛠️ Shipping features end-to-end (backend + frontend) when needed
+**At RuntimeStudioDevs, we focus on:**
+
+→ **Enterprise APIs & Backends** — .NET8 with Clean Architecture, DDD, SQL Server/PostgreSQL-optimized systems.
+
+→ **Microservices & Event-Driven Architecture** — Scalable, decoupled systems for complex domains.
+
+→ **SaaS Backends** — Production-ready APIs powering React/Vue/Next.js frontends.
+
+→ **AI-Assisted Development** — Claude AI integration for faster shipping without cutting corners.
+
+→ **AI Automation & Orchestration** — AI agents, workflow automation, prompt engineering, optimization.
 
 ---
 
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
+## What I Can Build
 
-<br />
-
-[![ReadMe Card](https://github.com/Moren0k/RiwiTraining/blob/main/README.md)](https://github.com/Moren0k/RiwiTraining)
-
-</details>
+→ SaaS Applications  
+→ REST APIs & Backend Systems  
+→ Business Automation Tools  
+→ AI Integrations & Agents  
+→ Custom Web Applications  
+→ Full Stack Solutions  
+→ Internal Company Tools  
+→ Data Processing Pipelines  
 
 ---
 
 <div align="center">
 
-  <h2 style="display: inline-block">Technologies I Use 👨🏻‍💻</h2>
+## Technologies I Use
 
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,rider,git,github,azure,docker,postman,mysql,mongodb,js,ts,react,vue,html,css,bash,vite,md&perline=9" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,rider,git,github,azure,docker,postman,mysql,postgresql,mongodb,mssql,js,ts,react,vue,nextjs,html,css,bash,vite,md&perline=12" />
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-informational?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-DDD-informational?style=flat&logo=abstract&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-JWT%20%26%20Identity-informational?style=flat&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing-xUnit-informational?style=flat&logo=testcafe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docs-Swagger%20%2F%20OpenAPI-informational?style=flat&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Azure%20DevOps-informational?style=flat&logo=azuredevops&logoColor=white" />
-</p>
+<div align="center">
+
+### Tech Stack
+
+<img src="https://img.shields.io/badge/Backend-C%23%20.NET8%20%2F%20EF%20Core-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-SQL%20Server%20%2F%20PostgreSQL%20%2F%20MySQL-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-React%20%2F%20Vue%20%2F%20Next.js-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Architecture-Clean%20Architecture%20%2F%20DDD-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-Azure%20%2F%20Docker%20%2F%20CI%2FCD-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Claude%20%2F%20ChatGPT%20%2F%20Gemini%20%2F%20MCPs-000000?style=flat-square&logoColor=white" />
+
+</div>
+
+---
+
+## Featured Projects
+
+**ZenithorCoreApp**  
+→ Full stack application with advanced features  
+→ Tech: .NET, React, TypeScript  
+→ [View Repository](https://github.com/Moren0k/zenithorcoreapp)
+
+**RiwiTraining**  
+→ Learning modules and training platform  
+→ Tech: C#, .NET  
+→ [View Repository](https://github.com/Moren0k/RiwiTraining)
+
+**RuntimeStudioDevs Website**  
+→ Next.js 16 + React 19 + TypeScript + Tailwind CSS  
+→ Status: Active, production  
+→ [Visit](https://runtimestudiodevs.com)
+
+---
+
+## What Matters
+
+→ Backend Quality — Clean boundaries, optimized SQL, tested logic  
+→ Architecture — Systems that scale: microservices, event-driven patterns  
+→ Enterprise Standards — .NET8 best practices, security-first design  
+→ Shipping — Ideas become systems; systems become value  
+→ AI Integration — Smart automation without cutting corners  
 
 ---
 
 <div align="center">
 
-  <h2 style="display: inline-block">Connect With Me 🤝</h2>
+## Connect With Me
 
-  <p>
-    <a href="https://www.linkedin.com/in/jhoskevinagudelomoreno/" target="blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://github.com/Moren0k" target="blank">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-    <a href="mailto:jhoskevinagudelomoreno@gmail.com" target="blank">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/jhoskevinagudelomoreno/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Moren0k" target="blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:jhoskevinagudelomoreno@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<p align="center"><i>LastUpdated: Feb 2026</i></p>
+**Email:** jhoskevinagudelomoreno@gmail.com  
+**LinkedIn:** [linkedin.com/in/jhoskevinagudelomoreno](https://www.linkedin.com/in/jhoskevinagudelomoreno/)  
+**Website:** [runtimestudiodevs.com](https://runtimestudiodevs.com)
+
+Available for: Backend architecture consulting, .NET8 projects, API design, AI automation, partnerships.
+
+---
+
+<p align="center"><i>Updated: June 2026</i></p>
