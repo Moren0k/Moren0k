@@ -28,9 +28,9 @@ Specialist in enterprise-grade systems with **.NET8 and clean patterns**. I ship
 
 ---
 
-## What We Build
+## What I Build
 
-**At RuntimeStudioDevs, we focus on:**
+I focus on:
 
 → **Enterprise APIs & Backends** — .NET8 with Clean Architecture, DDD, SQL Server/PostgreSQL-optimized systems.
 
@@ -91,7 +91,7 @@ Specialist in enterprise-grade systems with **.NET8 and clean patterns**. I ship
 
 **RiwiTraining**  
 → Learning modules and training platform  
-→ Tech: C#, .NET  
+→ Tech: C#, TypeScript, Vue, HTML, JavaScript, SCSS  
 → [View Repository](https://github.com/Moren0k/RiwiTraining)
 
 **RuntimeStudioDevs Website**  
